@@ -106,9 +106,12 @@ Brain teasers:
 
 ## How to pass the interview?
 
-- [Did you know that there is literally a class in Stanford's CS curriculum, that is basically "How to pass Google's Interview?"](https://twitter.com/mekkaokereke/status/1135981938437632001) ([CS9: Problem-Solving for the CS Technical Interview](https://web.stanford.edu/class/cs9/))
+- [Did you know that there is literally a class in Stanford's CS curriculum, that is basically "How to pass Google's Interview?"](https://twitter.com/mekkaokereke/status/1135981938437632001)
+- ([CS9: Problem-Solving for the CS Technical Interview](https://web.stanford.edu/class/cs9/))
 
 ## How to negotiate salary and benefits?
+
+- [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 ## What to do after you got hired?
 
