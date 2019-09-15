@@ -1,4 +1,4 @@
-# Awesome hiring
+# Awesome hiring process
 
 > Hiring may refer to:
 > Recruitment of personnel (usually called hiring in American English)
@@ -88,8 +88,15 @@ Other:
 - [An App for Tracking Job Listings](https://dev.to/kkemple/introducing-journey-an-app-for-tracking-job-listings-3pa4)
 - [Climate jobs for software engineers](https://github.com/jakedouglas/climatejobs)
 
+Brain teasers:
+
+- [Triplebyte](https://triplebyte.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [topcoder](https://www.topcoder.com/)
+
 ## How to choose the next workplace?
 
+- [Find engineering teams that share your values](https://www.keyvalues.io/)
 - [Reverse interview](https://github.com/viraptor/reverse-interview)
 - [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 - [Toxic / finding a safe place to work](http://lowercaseopinions.com/safe-place)
@@ -107,6 +114,7 @@ Other:
 
 ## About professional growth
 
+- [Rethinking the Developer Career Path – Randall Koutnik](https://www.youtube.com/watch?time_continue=1&v=yIPbE7BssOs)
 - [A Senior Engineer's CheckList](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/) ([Hacker news discussion](https://news.ycombinator.com/item?id=20914236))
 
 ## About teaching
@@ -138,6 +146,18 @@ Other:
 
 > "Heard of a cool tech-bro-weeding interview technique the other day. A male and female engineer conduct the interview session together. If, when the female engineer asks the candidate a question, he directs his answer to the male engineer,then he's out.They said it happens a lot"
 >
-> -- [jwildeboer](https://twitter.com/jwildeboer/status/1167028431059599360)
+> -- [@jwildeboer](https://twitter.com/jwildeboer/status/1167028431059599360)
 
 - [Interview questions](https://resources.workable.com/interview-questions/)
+- [Becoming a Googler in three steps](https://careers.google.com/how-we-hire/)
+- [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920/)
+- [Intercom. How we hire engineers](https://blog.intercom.com/how-we-hire-engineers-part-1/)
+- [How to interview at GoCardless](https://gocardless.com/blog/how-to-interview-at-gocardless/)
+- [Stories & Tips: 50+ Interviews With Facebook, Twitter, Amazon & Others](http://blog.robertelder.org/50-interviews-with-facebook-twitter-amazon-others/)
+- [Visualizing a Job Search or: How to Find a Job as a Software Engineer](http://kellysutton.com/2016/10/20/visualizing-a-job-search-or-how-to-find-a-job-as-a-software-engineer.html)
+
+### Bad interviews
+
+- ['Clean your desk' : My Amazon interview experience](https://web.archive.org/web/20190212161157/http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html)
+- [You suck at technical interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews)
+- [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
