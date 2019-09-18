@@ -141,6 +141,7 @@ Other:
 - [How To Answer The Dreaded "Tell Me About Yourself" Interview Question](https://dev.to/karaluton/how-to-answer-the-dreaded-tell-me-about-yourself-interview-question-43ge)
 - [Practice interviewing with engineers from Google, Facebook, and more... anonymously](https://interviewing.io/)
 - [I want to share a few common mistakes I keep seeing in interviews at Google, with suggestions for what you can do instead](https://twitter.com/__apf__/status/1138273642494668801?s=20)
+- [What Startups Really Mean By “Why Should We Hire You?”](https://angel.co/blog/what-startups-really-mean-by-why-should-we-hire-you)
 
 ## How to negotiate salary and benefits?
 
@@ -203,6 +204,7 @@ Other:
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/)
 - [Skill Stacking: A Practical Strategy To Achieve Career Success](https://dariusforoux.com/skill-stacking/)
+- [The Best Book to Read as a Developer](https://dev.to/taillogs/the-best-book-to-read-as-a-developer-1h4m)
 
 ## About interviewing
 
