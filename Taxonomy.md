@@ -49,7 +49,7 @@
 - Full Stack Developer
 - Graphics/Game Developer
 - Mobile Developer
-- Product Manager
+- Product Manager, Engineer Manager
 - QA/Test Developer
 - System Administrator
 - Site Reliability Engineer
