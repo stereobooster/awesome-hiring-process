@@ -61,7 +61,7 @@ Awesome lists:
 
 Popular boards:
 
-- LinkedIn ("As of 2015, most of the company's revenue came from selling access to information about its members to recruiters and sales professionals" according to Wikipedia)
+- [LinkedIn](https://www.linkedin.com/jobs) ("As of 2015, most of the company's revenue came from selling access to information about its members to recruiters and sales professionals" according to Wikipedia)
 - [stackoverflow](https://stackoverflow.com/jobs)
 - "Y Combinator who's hiring"
 - [AngelList](https://angel.co/jobs#find/)
@@ -77,18 +77,13 @@ Reverse hiring:
 
 - [Hired](https://hired.com/)
 - [Vettery](https://www.vettery.com/)
+- [honeypot](https://www.honeypot.io/)
 
 Big co:
 
 - [Google](https://www.google.com/intl/es_ALL/about/careers/how-we-hire/)
 - [Microsoft](https://careers.microsoft.com/us/en)
 - [IBM](https://careers.ibm.com)
-
-Other:
-
-- [An App for Tracking Job Listings](https://dev.to/kkemple/introducing-journey-an-app-for-tracking-job-listings-3pa4)
-- [Climate jobs for software engineers](https://github.com/jakedouglas/climatejobs)
-- [Honest work](https://honest.work/)
 
 Brain teasers:
 
@@ -105,6 +100,13 @@ Anonymous board:
 - [joppy](https://www.joppy.me/)
 - [respect-hire](https://en.respect-hire.tech/)
 - [demando](https://demando.se/)
+
+Other:
+
+- [An App for Tracking Job Listings](https://dev.to/kkemple/introducing-journey-an-app-for-tracking-job-listings-3pa4)
+- [Climate jobs for software engineers](https://github.com/jakedouglas/climatejobs)
+- [Honest work](https://honest.work/)
+- [A Practical Guide to Finding a Tech Job with Relocation to Europe](https://dev.to/stetsenko_me/a-practical-guide-to-finding-a-tech-job-with-relocation-to-europe-36eh)
 
 ## How to choose the next workplace?
 
