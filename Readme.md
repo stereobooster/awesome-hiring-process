@@ -106,6 +106,7 @@ Other:
 - [An App for Tracking Job Listings](https://dev.to/kkemple/introducing-journey-an-app-for-tracking-job-listings-3pa4)
 - [Climate jobs for software engineers](https://github.com/jakedouglas/climatejobs)
 - [Honest work](https://honest.work/)
+- [Hanzilla Jobs](https://jobs.hanzilla.co/new-grad/) - daily-updated Canadian student and recent-grad jobs across internships, co-ops, new-grad, junior, and entry-level roles.
 - [A Practical Guide to Finding a Tech Job with Relocation to Europe](https://dev.to/stetsenko_me/a-practical-guide-to-finding-a-tech-job-with-relocation-to-europe-36eh)
 
 ## How to choose the next workplace?
