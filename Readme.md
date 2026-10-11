@@ -145,6 +145,7 @@ Other:
 - [Practice interviewing with engineers from Google, Facebook, and more... anonymously](https://interviewing.io/)
 - [I want to share a few common mistakes I keep seeing in interviews at Google, with suggestions for what you can do instead](https://twitter.com/__apf__/status/1138273642494668801?s=20)
 - [What Startups Really Mean By “Why Should We Hire You?”](https://angel.co/blog/what-startups-really-mean-by-why-should-we-hire-you)
+- [Interview questions by company (Japan, 1,779 questions across 472 companies, CSV + per-item source URLs)](https://part676392.github.io/dsh-money-engine/?src=prhiring)
 - https://leetcode.com/
 
 ## How to negotiate salary and benefits?
