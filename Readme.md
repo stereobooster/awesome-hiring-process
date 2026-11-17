@@ -114,6 +114,7 @@ Values:
 
 - [Find engineering teams that share your values](https://www.keyvalues.io/)
 - [This is a collaborative list of corporate culture traits. You can vote for traits, add new ones and share your opinion](https://cultural.fit/)
+- [Compare how you like to work with a company's culture across eight areas, such as pace, candour and hierarchy. Free, no sign-up](https://mintraq.com/en/tools/culture-fit)
 - [Keynote: Programmers Don't Like People...or Do They? - April Wensel](https://www.youtube.com/watch?v=HPFuHS6aPhw)
 
 Reverse interviews:
